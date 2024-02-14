@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @urwaaa
-- 👀 I’m interested in web designing and AI.
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in web designing and data analysis.
+- 🌱 I’m currently studying BS IT
 - 📫 How to reach me ...
 
 <!---
